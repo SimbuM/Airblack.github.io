@@ -1,0 +1,14 @@
+.certificate-section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .certificate-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .certificate-section img {
+    max-width: 100%;
+    height: auto;
+  }
